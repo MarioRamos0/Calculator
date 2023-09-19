@@ -1,0 +1,26 @@
+.box {
+    height: 700px;
+    width: 500px;
+    background-color:#91A1BB;
+    margin:0 auto;
+    border-radius: 10%;
+    display: grid;
+}
+
+.screen {
+    height: 100px;
+    width: 460px;
+    margin: 60px 20px;
+    background-color: rgb(115, 141, 172);
+    margin-bottom: 0;
+    font-size: 60px;
+    font-family: 'Anonymous pro';
+    text-align: right;
+    padding-top: 60px ;
+    overflow-x: hidden;
+}
+
+
+
+
+

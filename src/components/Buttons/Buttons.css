@@ -1,0 +1,21 @@
+.buttonspace {
+    margin: 0 20px;
+    display: flex;
+}
+
+#C, #x, #equal, #sum, #rest, #div{
+    background-color: #b3cdee;
+}
+
+#C:hover, #x:hover, #equal:hover, #sum:hover, #rest:hover, #div:hover{
+    background-color: #020c18;
+}
+
+.numbers{
+    width: 345px;
+    height: 410px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-auto-flow: dense;
+    direction: rtl;
+}

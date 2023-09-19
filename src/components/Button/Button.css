@@ -1,0 +1,19 @@
+.littleButton {
+    height: 100px;
+    width: 113px;
+    background-color: #CCDBEF;
+    font-size: 40px;
+    font-family: 'Anonymous pro';
+    border: none;
+    border-radius: 5%;
+    text-align: center;
+    margin:1px ;
+    color: #1c2f47;
+}
+
+.littleButton:hover {
+
+    background-color: #193557;
+    color: white;
+    
+}
